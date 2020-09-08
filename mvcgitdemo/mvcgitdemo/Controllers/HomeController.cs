@@ -15,7 +15,7 @@ namespace mvcgitdemo.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application page.";
+            ViewBag.Message = "Your application page. is done";
 
             return View();
         }
